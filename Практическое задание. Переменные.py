@@ -1,0 +1,5 @@
+home_work_made=(12)
+hours=(1.5)
+name=("Python")
+time_per_task=(hours/home_work_made)
+print("Курс:",name,",всего задач:",home_work_made,",затрачено часов:",hours,",среднее время выполнения",time_per_task,"часа",sep="" )
